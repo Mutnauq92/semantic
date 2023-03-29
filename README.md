@@ -29,7 +29,7 @@ python -m spacy download en_core_web_md
 ```  
 - Now we can run the program using the following command  
 ```  
-python garden.py  
+python semantic.py  
 ```  
 
 # Semantic - Dockerizing
